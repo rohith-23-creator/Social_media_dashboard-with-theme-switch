@@ -334,6 +334,10 @@ p.red {
   }
 }
 
+.stat-view .last{
+  margin-bottom:1rem;
+}
+
 /* Light theme */
 .light-theme {
   background: linear-gradient(
