@@ -328,6 +328,9 @@ p.red {
   .overview h1 {
     padding: 2rem 0;
   }
+   .svgs {
+    margin-top: 3.5rem;
+  }
 }
 
 /* Light theme */
